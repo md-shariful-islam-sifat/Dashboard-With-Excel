@@ -86,5 +86,6 @@ The dashboard provides:
 * Filters 
 * Key business insights
 * An easy-to-understand overview of the data
-![Sales Dashboard](https://raw.githubusercontent.com/md-shariful-islam-sifat/Dashboard-With-Excel/e8c6f2281ebef8fb8305f135d271c3723c8981a6/Sales%20Dashboard.png)
+## Dashboard Overview
+![Sales Dashboard](https://github.com/md-shariful-islam-sifat/Dashboard-With-Excel/blob/0e9eaabcefdc0dcc5dfe00f458accf1b9f6aff50/Excel_Dashboard.png)
 
